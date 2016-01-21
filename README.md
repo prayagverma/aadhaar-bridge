@@ -20,7 +20,7 @@ Draft agreements that the Sub-AUA needs to sign in order to enroll for the Aadha
 
 * *examples*
 	* This folder contains the below mentioned
-		* **Aadhaar Bridge Sampler App**<br />
+		* **Aadhaar Bridge Sample App**<br />
 		Sample app that will let the user do Demographic Authentication, Biometric Authentication, OTP genration, OTP based authentication cum verification and KYC using Fingerprint and Iris.  
 		   		
 		
